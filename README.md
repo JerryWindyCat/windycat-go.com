@@ -1,3 +1,3 @@
 # windycat-go.com
 
-:P
+Welcome to this website！
